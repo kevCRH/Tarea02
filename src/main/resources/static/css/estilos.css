@@ -1,0 +1,123 @@
+#contenido{
+   
+    color: white;
+    position: absolute;
+    top: 18%;
+    left: 15%;
+    height: 82%;
+    width: 75%;
+    background-color: #214DA5;
+    padding: 12px;
+    overflow: auto;
+    text-align: center;
+    
+}
+#contenidoA{ 
+    color: white;
+    position: absolute;
+    top: 18%;
+    left: 15%;
+    height: 82%;
+    width: 75%;
+    background-color: #8990a2;
+    padding: 12px;
+    overflow: auto;
+    text-align: center;
+
+}
+#contenido_H{
+   
+    color: black;
+    position: absolute;
+    top: 18%;
+    left: 15%;
+    height: 82%;
+    width: 75%;
+    background-color: #76b900;
+    padding: 12px;
+    overflow: auto;
+    text-align: center;
+    
+}
+#contenidoA_M{
+   
+    color: white;
+    position: absolute;
+    top: 18%;
+    left: 15%;
+    height: 82%;
+    width: 75%;
+    background-color: #D81727;
+    padding: 12px;
+    overflow: auto;
+    text-align: center;
+    
+}
+
+#contenidoT_A{
+   
+    color: white;
+    position: absolute;
+    top: 18%;
+    left: 15%;
+    height: 82%;
+    width: 75%;
+    background-color:#7D785C;
+    padding: 12px;
+    overflow: auto;
+    text-align: center;
+    
+}
+
+#contenidoV{
+   
+    color: white;
+    position: absolute;
+    top: 18%;
+    left: 15%;
+    height: 82%;
+    width: 75%;
+    background-color:#B22F28;
+    padding: 12px;
+    overflow: auto;
+    text-align: center;
+    
+}
+
+#enlace{ 
+text-align: left;
+}
+
+#piepagina{
+    
+    color: white;
+    position: fixed;
+    bottom: 0%;
+    left: 0;
+    height: 3%;
+    width: 100%;
+    background-color: #0C0706;
+    text-align: center;
+    
+}
+
+#body{ 
+background: #0C0706; 
+}
+
+form{
+    display: inline-block;
+    text-align: left;
+}
+
+form input{
+    padding-top: 8px;
+}
+
+.datos{
+    display: flex;
+}
+
+#correo{
+    width: 80%;
+}
